@@ -1,0 +1,32 @@
+insert into cientificos values('A1234567','A');
+insert into cientificos values('B1234567','B');
+insert into cientificos values('C1234567','C');
+insert into cientificos values('D1234567','D');
+insert into cientificos values('E1234567','E');
+insert into cientificos values('F1234567','F');
+insert into cientificos values('G1234567','G');
+insert into cientificos values('H1234567','H');
+insert into cientificos values('I1234567','I');
+insert into cientificos values('J1234567','J');
+
+insert into proyecto values('pr01','A', 210);
+insert into proyecto values('pr02','B', 123);
+insert into proyecto values('pr03','C', 231);
+insert into proyecto values('pr04','D', 400);
+insert into proyecto values('pr05','E', 321);
+insert into proyecto values('pr06','F', 100);
+insert into proyecto values('pr07','G', 311);
+insert into proyecto values('pr08','H', 154);
+insert into proyecto values('pr09','I', 212);
+insert into proyecto values('pr10','J', 311);
+
+insert into asignado_a values('A1234567','pr10');
+insert into asignado_a values('B1234567','pr09');
+insert into asignado_a values('C1234567','pr08');
+insert into asignado_a values('D1234567','pr07');
+insert into asignado_a values('E1234567','pr06');
+insert into asignado_a values('F1234567','pr05');
+insert into asignado_a values('G1234567','pr04');
+insert into asignado_a values('H1234567','pr03');
+insert into asignado_a values('I1234567','pr02');
+insert into asignado_a values('J1234567','pr01');
